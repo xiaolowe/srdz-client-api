@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/main/resources/memcached.properties=UTF-8
+encoding//src/main/resources/wxpay.properties=UTF-8
+encoding//src/main/webapp/utf8_result.jsp=UTF-8
+encoding/<project>=UTF-8
